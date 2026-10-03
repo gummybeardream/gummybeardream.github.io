@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Professional Experiences
 description: A description of this category
 image:
 
