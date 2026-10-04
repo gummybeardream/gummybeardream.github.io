@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "Data Engineer | Graduate at Northwestern University"
     avatar   = "img/avatar.png"
 
 [article]
