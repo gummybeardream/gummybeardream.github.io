@@ -11,9 +11,9 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to my personal website!  
+Hope you're having a good day!  
 
-I am a current graduate student at Northwestern pursuing a Master of Science in Data Science specializing in data engineering. 
+I am a current graduate student at Northwestern University pursuing a Master of Science in Data Science specializing in data engineering. 
 
 
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
