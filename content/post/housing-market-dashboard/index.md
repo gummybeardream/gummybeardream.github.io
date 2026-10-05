@@ -1,8 +1,8 @@
 ---
 
 title: "Housing Market Trends Dashboard"
-description: "Python and Tableau project for analyzing U.S. housing market trends using Zillow and Census Data"
-date: 2025-10-04
+description: Python and Tableau project for analyzing U.S. housing market trends using Zillow and Census Data
+#date: 2025-10-04
 image: cover.jpg
 
 categories:
