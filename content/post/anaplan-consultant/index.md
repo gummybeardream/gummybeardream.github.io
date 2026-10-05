@@ -1,5 +1,5 @@
 ---
-title: Anaplan Consultant
+title: Anaplan Consultant | Keyrus EPM Americas
 description: Built scalable Anaplan data models for global sales teams to streamline territory & quota planning
 
 categories:
@@ -7,6 +7,10 @@ categories:
 tags:
     - Anaplan
     - Data Modeling
+    - Data Cleansing
+    - Data Migration
+    - Territory and Quota Planning
+    - Consulting
 weight: 2       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
