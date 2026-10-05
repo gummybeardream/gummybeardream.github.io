@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jessica's Personal Website
-description: Click on my links to learn more about my professional experiences and portfolio
+description: About Me
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
