@@ -6,8 +6,17 @@ name = "Home"
 url = "/"
 weight = 1
 [main.params]
-icon = "home"
+    icon = "home"
 #newtab = true
+
+[[main]]
+identifier = "projects"
+name = "Projects"
+url = "/categories/projects/"
+weight = 2
+[main.params]
+    icon = "archives"
+
 
 [[social]]
     identifier = "github"
