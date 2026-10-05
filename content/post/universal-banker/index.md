@@ -10,7 +10,7 @@ tags:
     - Client Experience
 image: 2.jpg
 
-weight: 1
+weight: 2
 ---
 Analyzed client financial profiles and transaction needs in Salesforce to identify appropriate banking solutions, support portfolio growth, and generate qualified referrals for mortgage and wealth-management partners
 

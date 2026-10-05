@@ -11,6 +11,7 @@ tags:
     - Python
     - Data pipeline
     - Data Visualization
+weight: 5
 
 ---
 

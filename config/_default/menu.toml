@@ -25,6 +25,15 @@ weight = 3
 [main.params]
     icon = "archives"
 
+[[main]]
+identifier = "education"
+name = "Education"
+url = "/categories/education/"
+weight = 4
+[main.params]
+    icon = "archives"
+    
+
 
 [[social]]
     identifier = "github"

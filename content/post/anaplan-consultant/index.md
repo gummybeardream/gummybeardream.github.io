@@ -11,7 +11,7 @@ tags:
     - Data Migration
     - Territory and Quota Planning
     - Consulting
-weight: 2       # You can add weight to some posts to override the default sorting (date descending)
+weight: 3       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Developed and deployed a scalable Anaplan data model using Agile methodologies for global sales territory and quota planning, reducing the planning cycle from 3+ months to 1 month
