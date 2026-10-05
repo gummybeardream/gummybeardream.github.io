@@ -10,10 +10,18 @@ weight = 1
 #newtab = true
 
 [[main]]
+identifier = "professional experience"
+name = "Professional Experience"
+url = "/categories/professional experience/"
+weight = 2
+[main.params]
+    icon = "archives"
+
+[[main]]
 identifier = "projects"
 name = "Projects"
 url = "/categories/projects/"
-weight = 2
+weight = 3
 [main.params]
     icon = "archives"
 
